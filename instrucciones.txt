@@ -1,0 +1,4 @@
+El archivo esta escrito en python 3.6
+para ejecutar desde consola python tarea.py
+
+o ejecutar el archivo tarea.spec si se esta en distribucion linux
